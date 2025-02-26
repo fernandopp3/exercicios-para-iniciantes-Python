@@ -1,0 +1,22 @@
+#Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+n = int(input("Digite um numero para exibir sua tabuada"))
+u = n * 1
+d = n * 2
+t = n * 3
+q = n * 4
+c = n * 5
+s = n * 6
+sete = n * 7
+oi = n * 8
+nov = n * 9
+dez = n* 10
+print("{} X 1 = {}".format(n, u))
+print("{} X 2 = {}".format(n, d))
+print("{} X 3 = {}".format(n, t))
+print("{} X 4 = {}".format(n, q))
+print("{} X 5 = {}".format(n, c))
+print("{} X 6 = {}".format(n, s))
+print("{} X 7 = {}".format(n, sete))
+print("{} X 8 = {}".format(n, oi))
+print("{} X 9 = {}".format(n, nov))
+print("{} X 10 = {}".format(n, dez))
